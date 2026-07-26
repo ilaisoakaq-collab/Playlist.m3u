@@ -1,14 +1,42 @@
 #EXTM3U
-
-# ===== باقة أخبار العالم =====
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="🌍 سيرفر إلياس",الجزيرة الإخبارية
+==========================================
+⚽ باقة beIN Sports (VIP)
+==========================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_Sports_Premium_1_logo.svg" group-title="⚽ beIN Sports VIP",beIN Sports 1 Premium
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(03)/index.m3u8
+ملاحظة: روابط بين سبورت المجانية تتغير باستمرار
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/BeIN_Sports_2_logo.svg" group-title="⚽ beIN Sports VIP",beIN Sports 2
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_Sports_3_logo.svg" group-title="⚽ beIN Sports VIP",beIN Sports 3
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/BeIN_Sports_News_logo.svg" group-title="⚽ beIN Sports VIP",beIN Sports الإخبارية المفتوحة
+https://bein-news-stirr.amagi.tv/playlist.m3u8
+==========================================
+🏆 باقة الرياضة العالمية (FIFA & Sports)
+==========================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SSC_Logo.svg" group-title="🏆 الرياضة السعودية والعالمية",SSC Sport 1
+https://d2e5ycof0h3hdt.cloudfront.net/out/v1/a2da29283f3e46cbb1ec94baaf44bde9/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Arryadia_Logo.png" group-title="🏆 الرياضة المغربية",الرياضية المغربية TNT
+https://snrt-live.fra1.cdn.digitaloceanspaces.com/live/snrt/arryadia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Abu_Dhabi_Sports_1_logo.png" group-title="🏆 الرياضة الإماراتية",أبوظبي الرياضية 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_Bull_TV_logo.svg/1024px-Red_Bull_TV_logo.svg.png" group-title="🏆 الرياضة العالمية",Red Bull TV Action
+https://rbmn-live.akamaized.net/hls/live/590300/BoRB-AT/master.m3u8
+==========================================
+🎬 باقة الأفلام والترفيه
+==========================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/MBC_2_logo.svg" group-title="🎬 الأفلام والترفيه",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/93b2a26c4f03403d9ff2b5eab66b60c2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/MBC_Action_logo.svg" group-title="🎬 الأفلام والترفيه",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/157d6bb1d6a64b97a2c3a50d277d7100/index.m3u8
+==========================================
+🌍 باقة قنوات العالم المختارة
+==========================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="🌍 قنوات العالم",الجزيرة الإخبارية (العربية)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sky_News_Arabia_Logo.svg" group-title="🌍 سيرفر إلياس",سكاي نيوز عربية
-https://skynewsarabia.akamaized.net/hls/live/2014389/skynewsarabia/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="🌍 سيرفر إلياس",فرانس 24
-https://static.france24.com/live/F24_AR_LO_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TRT_Arabi_Logo.svg" group-title="🌍 سيرفر إلياس",TRT عربي
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="🌍 قنوات العالم",France 24 (Français)
+https://static.france24.com/live/F24_FR_LO_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BBC_News_2019.svg" group-title="🌍 قنوات العالم",BBC News (English)
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070000/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/DW_logo.svg" group-title="🌍 قنوات العالم",DW (Deutsch)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
