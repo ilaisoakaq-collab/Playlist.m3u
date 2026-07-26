@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Al_Aoula_Logo.png" group-title="Morocco",Al Aoula
+===== باقة المغرب =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Al_Aoula_Logo.png" group-title="📺 سيرفر إلياس - المغرب",الأولى - Al Aoula
 https://snrt-live.fra1.cdn.digitaloceanspaces.com/live/snrt/al_aoula/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/2M_Logo.png" group-title="Morocco",2M Monde
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/2M_Logo.png" group-title="📺 سيرفر إلياس - المغرب",2M Monde
 https://2m-live.fra1.cdn.digitaloceanspaces.com/live/2m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Arryadia_Logo.png" group-title="Morocco",Arryadia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Arryadia_Logo.png" group-title="📺 سيرفر إلياس - المغرب",الرياضية - Arryadia
 https://snrt-live.fra1.cdn.digitaloceanspaces.com/live/snrt/arryadia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="News",France 24 Arabic
+===== باقة أخبار العالم =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="🌍 سيرفر إلياس - أخبار العالم",France 24 Arabic
 https://static.france24.com/live/F24_AR_LO_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="🌍 سيرفر إلياس - أخبار العالم",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sky_News_Arabia_Logo.svg" group-title="🌍 سيرفر إلياس - أخبار العالم",Sky News Arabia
+https://skynewsarabia.akamaized.net/hls/live/2014389/skynewsarabia/master.m3u8
+===== باقة الرياضة العالمية =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_Bull_TV_logo.svg/1024px-Red_Bull_TV_logo.svg.png" group-title="⚽ سيرفر إلياس - رياضة",Red Bull TV (Global)
+https://rbmn-live.akamaized.net/hls/live/590300/BoRB-AT/master.m3u8
+===== باقة فرنسا =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV5Monde_logo.svg" group-title="🇫🇷 سيرفر إلياس - فرنسا",TV5Monde Europe
+https://ott.tv5monde.com/content/tv5monde/hd/live.m3u8
