@@ -1,19 +1,11 @@
 #EXTM3U
-
-# ===== قنوات المغرب =====
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Al_Aoula_Logo.png" group-title="المغرب", الأولى - Al Aoula
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Al_Aoula_Logo.png" group-title="Morocco",Al Aoula
 https://snrt-live.fra1.cdn.digitaloceanspaces.com/live/snrt/al_aoula/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/2M_Logo.png" group-title="المغرب", 2M Monde
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/2M_Logo.png" group-title="Morocco",2M Monde
 https://2m-live.fra1.cdn.digitaloceanspaces.com/live/2m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Arryadia_Logo.png" group-title="المغرب", الرياضية - Arryadia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Arryadia_Logo.png" group-title="Morocco",Arryadia
 https://snrt-live.fra1.cdn.digitaloceanspaces.com/live/snrt/arryadia/playlist.m3u8
-
-# ===== أخبار عالمية =====
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="الأخبار", France 24 Arabic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/France_24_logo.svg" group-title="News",France 24 Arabic
 https://static.france24.com/live/F24_AR_LO_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="الأخبار", Al Jazeera English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Jazeera_English_Logo.svg" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
